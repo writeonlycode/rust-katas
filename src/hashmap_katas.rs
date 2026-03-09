@@ -1,7 +1,7 @@
 use std::collections::HashMap;
 
 #[cfg(test)]
-use pretty_assertions::{assert_eq, assert_ne};
+use pretty_assertions::assert_eq;
 
 // Exercise 1 — Count word frequency
 // Goal: Create a hashmap and increment counts.
